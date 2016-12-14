@@ -5,6 +5,7 @@ public class horse {
 	public Boolean running;
 	public String cry;
 	public String leg;
+	public String strongness;
 	
 	public void setHair(){
 		this.hair = "yellow";
